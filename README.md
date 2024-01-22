@@ -16,6 +16,6 @@
 
 [How will you design a Vending Machine in Java?](https://lnkd.in/gDYft4Mi)
 
-[How will you design a ride-sharing app like Uber or Ola?](https://lnkd.in/g2gsjPFD)
+[How will you design a ride-sharing app like Uber or Ola?](https://www.youtube.com/watch?v=Tp8kpMe-ZKw&ab_channel=codeKarle)
 
 [How will you design an autocomplete feature?](https://lnkd.in/gk2vvMn5)
